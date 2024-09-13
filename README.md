@@ -1,1 +1,1 @@
-# tmp_titanic
+# Titanic dataset EDA
